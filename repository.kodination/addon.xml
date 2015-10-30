@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kodination"
+        name="KodiNation Repository"
+        version="1.0.1"
+        provider-name="KodiNation">
+    <extension point="xbmc.addon.repository"
+        name="KodiNation Repository">
+        <info compressed="false">http://svn.kodination.com/repo/kodination/addons.xml</info>
+        <checksum>http://svn.kodination.com/repo/kodination/addons.xml.md5</checksum>
+        <datadir zip="true">http://svn.kodination.com/repo/kodination/repo</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>KodiNation Repository</summary>
+         <description>Plugins and addons created by the KodiNation Group</description>
+	<disclaimer>All plugins are covered by the POGO license: Patch it Or Get the fuck Out </disclaimer>
+        <license>POGO</license> 
+		<platform>all</platform>
+		<noicon>false</noicon> 
+		<nofanart>false</nofanart> 
+    </extension>
+</addon>

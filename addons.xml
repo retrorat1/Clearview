@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-
 <addon id="plugin.video.clearstream-builds" name="Clearstream Builds" version="1.0.1" provider-name="retrorat1">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -43,10 +43,10 @@
         <summary>KodiNation Repository</summary>
          <description>Plugins and addons created by the KodiNation Group</description>
 	<disclaimer>All plugins are covered by the POGO license: Patch it Or Get the fuck Out </disclaimer>
-        <license>POGO</license> 
+        <license>POGO</license>
 		<platform>all</platform>
-		<noicon>false</noicon> 
-		<nofanart>false</nofanart> 
+		<noicon>false</noicon>
+		<nofanart>false</nofanart>
     </extension>
 </addon>
 
@@ -63,7 +63,4 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-.
-
 </addons>

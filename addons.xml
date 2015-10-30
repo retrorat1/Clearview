@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-
 <addon id="plugin.video.clearstream-builds" name="Clearstream Builds" version="1.0.1" provider-name="retrorat1">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -63,8 +63,4 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-.
-
-
 </addons>
